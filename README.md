@@ -1,2 +1,2 @@
-| <img src="https://github.com/user-attachments/assets/9fa7d3af-0d2d-44a0-a4fc-db458add4f94" width="100%" alt="OSS Membership Card"/> |
+| <img  width="100%" alt="OSS Membership Card" src="https://github.com/user-attachments/assets/984329fb-f18c-4d18-9f5f-65ccbb81bd95" /> |
 |----|
